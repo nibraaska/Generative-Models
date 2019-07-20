@@ -41,4 +41,7 @@ config.rst
 
 package-lock.json
 geckodriver.log
-/dataset
+
+dataset/
+data/
+runs/
