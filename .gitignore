@@ -42,8 +42,8 @@ config.rst
 package-lock.json
 geckodriver.log
 
-dataset/
-data/
-runs/
-img_align_celeba*/
-img_align_celeba.npz
+FaceGeneration/dataset/
+FaceGeneration/data/
+FaceGeneration/runs/
+FaceGeneration/img_align_celeba*/
+FaceGeneration/img_align_celeba.npz
