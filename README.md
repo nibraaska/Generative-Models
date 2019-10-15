@@ -10,3 +10,4 @@ This repository is meant to be used as a playground to learn about generative ne
     - mnistTorchGAN.ipynb: Same as mnistKerasGAN.ipynb but with the use of Torch
     - utils.py: Helper code 
 - /Style Transfer
+    - StyleTransferGAN.ipynb: Style transfer using Keras CNN
