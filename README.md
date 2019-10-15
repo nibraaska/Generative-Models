@@ -12,3 +12,4 @@ This repository is meant to be used as a playground to learn about generative ne
 - /Style Transfer: This folder contains all stuff related to style transfer
     - parse.py: Python script for collecting the works of Edgar Degas
     - degas/: Works of Degas in jpg format
+    - StyleTransferGAN.ipynb: Style transfer using CNN with Keras
