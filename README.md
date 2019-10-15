@@ -9,5 +9,6 @@ This repository is meant to be used as a playground to learn about generative ne
     - mnistKerasGAN.ipynb: A basic generative model with very simple neural networks to solve the MNST with Keras
     - mnistTorchGAN.ipynb: Same as mnistKerasGAN.ipynb but with the use of Torch
     - utils.py: Helper code 
-- /Style Transfer
-    - StyleTransferGAN.ipynb: Style transfer using Keras CNN
+- /Style Transfer: This folder contains all stuff related to style transfer
+    - parse.py: Python script for collecting the works of Edgar Degas
+    - degas/: Works of Degas in jpg format
